@@ -1,0 +1,2 @@
+me/yusuf/common/BuildConfig.java
+ me.yusuf.common.BuildConfig

@@ -1,0 +1,2 @@
+me/yusuf/android/BuildConfig.java
+ me.yusuf.android.BuildConfig

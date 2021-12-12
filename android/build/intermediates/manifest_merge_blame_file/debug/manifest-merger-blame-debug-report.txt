@@ -1,0 +1,46 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.yusuf.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml:3:5-66
+11-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml:3:22-64
+12
+13    <application
+13-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml:4:5-14:19
+14        android:allowBackup="false"
+14-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml:5:13-40
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.5.0-rc02] /home/yusuf/.gradle/caches/transforms-3/79e785ef060180116792fd4fd987209e/transformed/core-1.5.0-rc02/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:supportsRtl="true"
+18-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml:6:13-39
+19        android:testOnly="true"
+20        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+20-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml:7:13-69
+21        <activity android:name="me.yusuf.android.MainActivity" >
+21-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml:8:13-13:20
+21-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml:8:23-51
+22            <intent-filter>
+22-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml:9:13-12:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml:10:17-68
+23-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml:10:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml:11:17-76
+25-->/home/yusuf/İndirilenler/untitled/android/src/main/AndroidManifest.xml:11:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>
