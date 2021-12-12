@@ -1,4 +1,3 @@
-import me.yusuf.common.App
 import androidx.compose.desktop.DesktopMaterialTheme
 import androidx.compose.material.Button
 import androidx.compose.material.Text
@@ -8,6 +7,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.window.Window
 import androidx.compose.ui.window.application
+import me.yusuf.common.TranslateAPI
 
 fun main() = application {
     Window(onCloseRequest = ::exitApplication) {

@@ -1,6 +1,5 @@
 package me.yusuf.android
 
-import me.yusuf.common.App
 import android.os.Bundle
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
@@ -11,7 +10,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
-import me.yusuf.common.getPlatformName
+import me.yusuf.common.TranslateAPI
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

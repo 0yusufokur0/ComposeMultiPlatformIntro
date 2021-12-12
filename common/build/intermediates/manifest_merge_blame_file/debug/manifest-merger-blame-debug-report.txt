@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="24"
-6-->/home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
+6-->/home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml
 7        android:targetSdkVersion="30" />
-7-->/home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
+7-->/home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml
 8
 9</manifest>

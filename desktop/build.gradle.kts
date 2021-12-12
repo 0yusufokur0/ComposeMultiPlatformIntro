@@ -22,8 +22,6 @@ kotlin {
                 implementation(project(":common"))
                 implementation(compose.desktop.currentOs)
                 api(compose.preview)
-                implementation("org.json:json:20171018")
-
             }
         }
         val jvmTest by getting

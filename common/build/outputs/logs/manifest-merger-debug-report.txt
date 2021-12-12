@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml:2:1-97
-INJECTED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml:2:1-97
-INJECTED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml:2:1-97
+ADDED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml:2:1-97
+INJECTED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml:2:1-97
+INJECTED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml:2:1-97
 	package
-		ADDED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml:2:70-95
-		INJECTED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
-		INJECTED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
+		ADDED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml:2:70-95
+		INJECTED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml
+		INJECTED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml:2:11-69
+		ADDED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml:2:11-69
 uses-sdk
-INJECTED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
-INJECTED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
-INJECTED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
-INJECTED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
+INJECTED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml
+INJECTED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml
+INJECTED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml
+INJECTED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
-		ADDED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
-		INJECTED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
+		INJECTED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml
+		ADDED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml
+		INJECTED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
-		ADDED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
-		INJECTED from /home/yusuf/İndirilenler/untitled/common/src/androidMain/AndroidManifest.xml
+		INJECTED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml
+		ADDED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml
+		INJECTED from /home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/common/src/androidMain/AndroidManifest.xml

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yusuf/İndirilenler/untitled/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
+            "outputFile": "/home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
             "map": [
                 {
                     "source": "/home/yusuf/.gradle/caches/transforms-3/d6b032e10442e7ce3f0534464558fe39/transformed/ui-debug/res/values-lv/values-lv.xml",

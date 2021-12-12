@@ -25,6 +25,8 @@ kotlin {
                 api(compose.runtime)
                 api(compose.foundation)
                 api(compose.material)
+                implementation("org.json:json:20171018")
+
             }
         }
         val commonTest by getting {

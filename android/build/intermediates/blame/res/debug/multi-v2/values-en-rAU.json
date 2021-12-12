@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yusuf/İndirilenler/untitled/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "/home/yusuf/IdeaProjects/ComposeMultiPlatformIntro/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "/home/yusuf/.gradle/caches/transforms-3/79e785ef060180116792fd4fd987209e/transformed/core-1.5.0-rc02/res/values-en-rAU/values-en-rAU.xml",
